@@ -1,7 +1,9 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
 	<title>Ilan Kleiman&apos;s Website</title>
+	<link rel="manifest" href="js/manifest.json">
+	<meta name="theme-color" content="rgba(65, 73, 83, 1.0)"/>
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width, height=device-height" minimal-ui/>
@@ -9,23 +11,19 @@
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<script type="text/javascript" src="js/fastclick.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/jquery-ui.js"></script>
+	<!--<script type="text/javascript" src="js/jquery-ui.js"></script>-->
 	<script type="text/javascript" src="js/jq_colors.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
-	<script type="text/javascript" src="js/json.js"></script>
 	<script type="text/javascript" src="js/ajax.js"></script>
+	<!-- SW requires HTTPS -->
 	<script type="text/javascript"></script>
 </head>
 <body>
 	<div id='header'>
 		<div class='tabs' id='pageAbout'>About</div>
-		
 		<div class='tabs' id='pageHOVA'></div>
-		
 		<div class='tabs' id='pageProjects'>Projects</div>
-		
 		<div class='tabs' id='pagePROJ'></div>
-		
 		<div id='title'>Ilan Kleiman</div>
 	</div>
 	
@@ -36,7 +34,5 @@
 	</div>
 	
 	<div class='pageContents' id='projectsContents' style='display: none;'></div>
-	<div id='closeFrame'><div style='margin-top: 10px;'>Close Demo</div></div>
-	<iframe src='http://ilankleiman.com/p.txt' id='viewer' frameBorder='0' border='0px'></iframe>
 </body>
 </html>

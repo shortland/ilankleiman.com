@@ -32,8 +32,8 @@ sub GetNewData {
 }
 
 # gets output.json and parses the data.
-# write output to projectPage.html in neat format
-# projectPage.html then ajax'd into main site.
+# write output to projectPage.txt in neat format
+# projectPage.txt then ajax'd into main site.
 # b/c pP.html doesn't contain CSS. uses main site CSS. So should be ajax'd over.
 sub ParseWriteNewData {
 	my @params = @_;
@@ -44,14 +44,19 @@ sub ParseWriteNewData {
 
 	my $toWrite;
 	my $i = 0;
+	my $isFork;
 	foreach my $project (@{$jsonObject}) {
-		$toWrite .= "<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>" . $jsonObject->[$i]{name} . "</h3>\n";
+		$isFork = "";
+		if ($jsonObject->[$i]{fork}) {
+			$isFork = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>";
+		}
+		$toWrite .= "<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>" . $jsonObject->[$i]{name} . "</h3>$isFork\n";
 		$toWrite .= "<p>" . $jsonObject->[$i]{description} . "</p>\n" unless !defined($jsonObject->[$i]{description});
-		$toWrite .= "<p>Source: <a target='_blank' href='" . $jsonObject->[$i]{html_url} . "'>" . $jsonObject->[$i]{html_url} . "</a></p></div><br/><br/>\n\n";
+		$toWrite .= "<p>Source: <a rel='noopener' target='_blank' href='" . $jsonObject->[$i]{html_url} . "'>" . $jsonObject->[$i]{html_url} . "</a></p></div><br/><br/>\n\n";
 		$i++;
 	}
-	path('projectPage.html')->spew($toWrite);
-	print "wrote new html data to projectPage.html";
+	path('projectPage.txt')->spew($toWrite);
+	print "wrote new html data to projectPage.txt";
 }
 
 # auto begin
@@ -70,5 +75,5 @@ BEGIN {
 	AgeOfData();
 	print "Done!\n";
 	print "</div>";
-	print path("projectPage.html")->slurp;
+	print path("projectPage.txt")->slurp;
 }

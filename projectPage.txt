@@ -1,0 +1,118 @@
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>NooksMarketplace</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<p>A web app I created that supplements user gameplay for the Nintendo game app, Animal Crossing: Pocket Camp. I saw a struggle in trading items due to players only being allowed to trade within their friends list, and their friends will not always have the items that are desired. This web app solves the problem by allowing users to all get together and declare what items they are buying/selling, and at what quantity. Afterwards, they also provide their ID in order for someone who meets their needs can add them.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/NooksMarketplace'>https://github.com/shortland/NooksMarketplace</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>ilankleiman.com</h3>
+<p>Source code of my website</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/ilankleiman.com'>https://github.com/shortland/ilankleiman.com</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Reddit-Grab-Tag</h3>
+<p>Using Reddit’s API, the first script grabs the top posts from the defined subreddit. It seperates each post, and writes them into it's own file. The second script takes each file, grabs the necessary information (title, content, author) and inserts them into a database.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Reddit-Grab-Tag'>https://github.com/shortland/Reddit-Grab-Tag</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-ToDoList-Bot</h3>
+<p>Individual users can create a To-Do-List. Couldn't be possible without https://github.com/vsTerminus/Goose</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-ToDoList-Bot'>https://github.com/shortland/Discord-ToDoList-Bot</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-Reddit-Bot</h3>
+<p>Fetches text from Reddit.com attributed to what you type. Uses a variant of module Redditor::Client</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-Reddit-Bot'>https://github.com/shortland/Discord-Reddit-Bot</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-Backup-Manager</h3>
+<p>Can create a full backup of a Discord text channel. Couldn't be possible without https://github.com/vsTerminus/Goose</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-Backup-Manager'>https://github.com/shortland/Discord-Backup-Manager</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-Hangman-Bot</h3>
+<p>Simple Discord Hangman bot. Couldn't be possible without https://github.com/vsTerminus/Goose</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-Hangman-Bot'>https://github.com/shortland/Discord-Hangman-Bot</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Starcraft-2-Clan-Roster</h3>
+<p>Visualize on the web, your clan’s roster; with member info such as league, race, w/l ratio, etc…</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Starcraft-2-Clan-Roster'>https://github.com/shortland/Starcraft-2-Clan-Roster</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>AlertMe</h3>
+<p>Idea for alerts for discord bot. Not sure what I want to do with this anymore</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/AlertMe'>https://github.com/shortland/AlertMe</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CoinAlert</h3>
+<p>not close to being done</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CoinAlert'>https://github.com/shortland/CoinAlert</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>YouTube-ID-to-MP3</h3>
+<p>Personal Project. Please don't use/abuse this... It uses someone elses website. I could use open source YT downloader but nahhh this is more fun</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/YouTube-ID-to-MP3'>https://github.com/shortland/YouTube-ID-to-MP3</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Youtube-Playlist-to-Text-List</h3>
+<p>Get names of all videos in a playlist. Useful for playlists with several hundred videos. Output is a text file with each video name delimited with new line</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Youtube-Playlist-to-Text-List'>https://github.com/shortland/Youtube-Playlist-to-Text-List</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Userscript-for-KissAnime.ru</h3>
+<p>Remove ads and optimize page/player. </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Userscript-for-KissAnime.ru'>https://github.com/shortland/Userscript-for-KissAnime.ru</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>One-Piece-Player-User-Script</h3>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/One-Piece-Player-User-Script'>https://github.com/shortland/One-Piece-Player-User-Script</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Reddit-Replies</h3>
+<p>Get a reddit comment based off keyword search</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Reddit-Replies'>https://github.com/shortland/Reddit-Replies</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Trivia-Crack-Automated</h3>
+<p>Setup a cron job or something to execute the script however often you want. The script will create as many new games as it can. And it’ll play any existing open games as-well.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Trivia-Crack-Automated'>https://github.com/shortland/Trivia-Crack-Automated</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Word-Crack-Automated</h3>
+<p>Full automation for the game Word Crack</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Word-Crack-Automated'>https://github.com/shortland/Word-Crack-Automated</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Caffeine-Levels</h3>
+<p>Using a bad understanding of Bio&Chem, mathematically calculate the amount of caffeine in your body relative to when you took it.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Caffeine-Levels'>https://github.com/shortland/Caffeine-Levels</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Running</h3>
+<p>Checks whether a script(s) is running and can kill the PID of the script if needed</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Running'>https://github.com/shortland/Running</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Twitter-Common-Followers</h3>
+<p>Get a list of 2 peoples shared followers</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Twitter-Common-Followers'>https://github.com/shortland/Twitter-Common-Followers</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CBoard</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<p>macOS notification center widget to perform quick programming-related tasks</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CBoard'>https://github.com/shortland/CBoard</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>4-7-8-Breathing-Animation</h3>
+<p>Animation to ease into 4-7-8 Breathing </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/4-7-8-Breathing-Animation'>https://github.com/shortland/4-7-8-Breathing-Animation</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>SC2-Audio-Builder-Auto-Parse</h3>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/SC2-Audio-Builder-Auto-Parse'>https://github.com/shortland/SC2-Audio-Builder-Auto-Parse</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>sc2audiobuilder</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<p>StarCraft 2 Audiobuilder</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/sc2audiobuilder'>https://github.com/shortland/sc2audiobuilder</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>spawningtool</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<p>Tools for analyzing StarCraft 2 Replays</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/spawningtool'>https://github.com/shortland/spawningtool</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Revlo-Bot-gamble-is-a-trap</h3>
+<p>Obviously since the odds are clearly given to you</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Revlo-Bot-gamble-is-a-trap'>https://github.com/shortland/Revlo-Bot-gamble-is-a-trap</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Twitch-Stream-Online-Detection</h3>
+<p>Simple script to detects if a stream is online, and shows the game they're currently playing. Using Twitches new API.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Twitch-Stream-Online-Detection'>https://github.com/shortland/Twitch-Stream-Online-Detection</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>OrangeCaptcha</h3>
+<p>The Orange Captcha. Simple image Captcha.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/OrangeCaptcha'>https://github.com/shortland/OrangeCaptcha</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Hybrid-Cookie-Login</h3>
+<p>Web Cookie Login</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Hybrid-Cookie-Login'>https://github.com/shortland/Hybrid-Cookie-Login</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>4000-Circles</h3>
+<p>Really awesome jQuery/CSS animation</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/4000-Circles'>https://github.com/shortland/4000-Circles</a></p></div><br/><br/>
+

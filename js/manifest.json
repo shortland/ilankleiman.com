@@ -1,0 +1,7 @@
+{
+  "short_name": "IlanKleiman",
+  "name": "Ilan Kleiman's Website",
+  "start_url": "index.html?launcher=true",
+  "display": "standalone",
+  "theme_color": "rgba(65, 73, 83, 1.0)"
+}
