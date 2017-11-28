@@ -1,0 +1,193 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
+
+/*
+@font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Lato Regular'), local('Lato-Regular'), url(font_lato.tff) format('truetype');
+}
+*/
+
+* {
+	-webkit-appearance: none;
+	-mox-appearance: none;
+	-o-appearance: none;
+	-ms-appearance: none;
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	background-color: rgba(158, 207, 255, 1.0);
+}
+/*
+#background {
+	background: rgba(158, 207, 255, 1.0) center;
+	/breakurl(../images/topavolcano.jpg) no-repeat center;
+	background-size: cover;
+	position: absolute;
+	width: 100%;
+	height: 120%;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+*/
+/*
+206, 231, 255, 1.0
+65, 73, 83*/
+#header {
+	height: 60px;
+	background-color: rgba(65, 73, 83, 1.0);
+	color: rgba(158, 207, 255, 1.0);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 3;
+	width: 100%;
+	border-bottom: 1px solid rgba(40, 82, 120, 0.7);
+}
+
+#title {
+	position: absolute;
+	left: 20px;
+	top: 12px;
+	font-size: 28px;
+	color: rgba(158, 207, 255, 1.0);
+	cursor: pointer;
+	transition: color 200ms;
+}
+
+#title:hover {
+	color: rgba(206, 231, 255, 1.0);
+}
+
+.tabs {
+	font-weight: light;
+	cursor: pointer;
+	position: absolute;
+	top: 22px;
+}
+
+#pageHOVA {
+	top: 42px;
+	right: 40px;
+	background-color: rgba(206, 231, 255, 1.0);
+	display: none;
+	height: 2px;
+}
+
+#pagePROJ {
+	top: 42px;
+	right: 120px;
+	background-color: rgba(206, 231, 255, 1.0);
+	display: none;
+	height: 2px;
+}
+
+#pageAbout {
+	right: 40px;
+}
+
+#pageProjects {
+	right: 120px;
+}
+
+.pageContents {
+	position: absolute;
+	top: 100px;
+	left: 5%;
+	height: 100%;
+	width: 90%;
+	z-index: 2;
+}
+
+.contentDiv {
+	position: relative;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-top: 5px solid rgba(40, 82, 120, 0.7);
+	min-height: 200px;
+}
+
+p {
+	margin-top: -2px;
+	padding: 20px;
+}
+
+.titlePROJ {
+	margin-top: 5px;
+	margin-left: 5px;
+	font-size: 20px;
+	font-weight: bold;
+	position: relative;
+	text-decoration: underline;
+}
+
+.descriptionPROJ {
+	margin-top: 5px;
+	width: 50%;
+	position: relative;
+	left: 0px;
+}
+
+.demoPROJ {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	cursor: pointer;
+	font-size: 32px;
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, 0.1);
+	transition: all 300ms;
+	line-height: 100%;
+}
+
+.demoPROJ:hover {
+	color: rgba(158, 207, 255, 1.0);
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+#viewer {
+	position: fixed;
+	top: 60px;
+	left: 0px;
+	background-color: rgba(0, 0, 0, 0.1);
+	height: 100%;
+	width: 0px;
+	z-index: 5;
+}
+
+#closeFrame {
+	position: fixed;
+	top: 0px;
+	width: 0px;
+	left: 0px;
+	height: 59px;
+	background-color: rgba(64, 64, 64, 1.0);
+	color: rgba(255, 255, 255, 0.0);
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	z-index: 6;
+	border-bottom: 1px solid black;
+	cursor: pointer;
+	transition: all 300ms;
+	overflow: hidden;
+}
+
+#closeFrame:hover {
+	color: rgba(242, 242, 242, 1.0);
+	background-color: rgba(54, 54, 54, 1.0);
+}
+
+.project {
+	background-color: rgba(255, 255, 255, 0.5);
+    border-top: 5px solid rgba(40, 82, 120, 0.7);
+}
+
