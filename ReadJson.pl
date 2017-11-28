@@ -48,7 +48,7 @@ sub ParseWriteNewData {
 	foreach my $project (@{$jsonObject}) {
 		$isFork = "";
 		if ($jsonObject->[$i]{fork}) {
-			$isFork = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>";
+			$isFork = "<div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>";
 		}
 		$toWrite .= "<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>" . $jsonObject->[$i]{name} . "</h3>$isFork\n";
 		$toWrite .= "<p>" . $jsonObject->[$i]{description} . "</p>\n" unless !defined($jsonObject->[$i]{description});
