@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 
+use CGI::Carp qw(fatalsToBrowser);
 use CGI;
 
 use JSON;
@@ -26,7 +27,8 @@ sub AgeOfData {
 # only gets executed if AgeOfData gets >60min age
 sub GetNewData {
 	my @params = @_;
-	system("curl -s https://api.github.com/users/shortland/repos?sort=updated > output.json");
+	my $output = `curl -s -L -A 'ilankleiman\@gmail.com' 'https://api.github.com/users/shortland/repos?sort=pushed&per_page=100'`;
+	path("output.json")->spew($output);
 	print "Got new data and written to output.json\n";
 	ParseWriteNewData();
 }

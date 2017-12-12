@@ -1,10 +1,53 @@
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>NooksMarketplace</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Space-Corp-Public</h3>
+<p>a work in progress</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Space-Corp-Public'>https://github.com/shortland/Space-Corp-Public</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CoinAlert</h3>
+<p>not close to being done</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CoinAlert'>https://github.com/shortland/CoinAlert</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>AC-Friends</h3>
+<p>Web App for users of Animal Crossing (iOS and Android) to share eachothers IDs to make more friends.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/AC-Friends'>https://github.com/shortland/AC-Friends</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>LazyUpload</h3>
+<p>Needed a quick way to upload a file to my server via command line... Too lazy to go into FTP/SSH... So here's this... Definitely not safe, not recommended to try at home.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/LazyUpload'>https://github.com/shortland/LazyUpload</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>GEO-102</h3>
+<p>Good study questions (and answers) for (SBU) GEO 102</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/GEO-102'>https://github.com/shortland/GEO-102</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Laundry-View</h3>
+<p>My own version of LaundryView w/text alerts. Can work w/multiple locations</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Laundry-View'>https://github.com/shortland/Laundry-View</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Automation-for-Trivia-Crack</h3>
+<p>For full working code please see: https://github.com/shortland/Trivia-Crack-Automated</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Automation-for-Trivia-Crack'>https://github.com/shortland/Automation-for-Trivia-Crack</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>NooksMarketplace</h3><div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>
 <p>A web app I created that supplements user gameplay for the Nintendo game app, Animal Crossing: Pocket Camp. I saw a struggle in trading items due to players only being allowed to trade within their friends list, and their friends will not always have the items that are desired. This web app solves the problem by allowing users to all get together and declare what items they are buying/selling, and at what quantity. Afterwards, they also provide their ID in order for someone who meets their needs can add them.</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/NooksMarketplace'>https://github.com/shortland/NooksMarketplace</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Youtube-Playlist-to-Text-List</h3>
+<p>Get names of all videos in a playlist. Useful for playlists with several hundred videos. Output is a text file with each video name delimited with new line</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Youtube-Playlist-to-Text-List'>https://github.com/shortland/Youtube-Playlist-to-Text-List</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Trivia-Crack-Automated</h3>
+<p>Setup a cron job or something to execute the script however often you want. The script will create as many new games as it can. And it’ll play any existing open games as-well.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Trivia-Crack-Automated'>https://github.com/shortland/Trivia-Crack-Automated</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>OCR-API-Template</h3>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/OCR-API-Template'>https://github.com/shortland/OCR-API-Template</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>ilankleiman.com</h3>
 <p>Source code of my website</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/ilankleiman.com'>https://github.com/shortland/ilankleiman.com</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Quantum-Analog</h3>
+<p>An incomplete project by Cody Mclaughlin and Ilan Kleiman</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Quantum-Analog'>https://github.com/shortland/Quantum-Analog</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Reddit-Grab-Tag</h3>
 <p>Using Reddit’s API, the first script grabs the top posts from the defined subreddit. It seperates each post, and writes them into it's own file. The second script takes each file, grabs the necessary information (title, content, author) and inserts them into a database.</p>
@@ -13,6 +56,10 @@
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-ToDoList-Bot</h3>
 <p>Individual users can create a To-Do-List. Couldn't be possible without https://github.com/vsTerminus/Goose</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-ToDoList-Bot'>https://github.com/shortland/Discord-ToDoList-Bot</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Starcraft-2-Clan-Roster</h3>
+<p>Visualize on the web, your clan’s roster; with member info such as league, race, w/l ratio, etc…</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Starcraft-2-Clan-Roster'>https://github.com/shortland/Starcraft-2-Clan-Roster</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Discord-Reddit-Bot</h3>
 <p>Fetches text from Reddit.com attributed to what you type. Uses a variant of module Redditor::Client</p>
@@ -26,60 +73,44 @@
 <p>Simple Discord Hangman bot. Couldn't be possible without https://github.com/vsTerminus/Goose</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Discord-Hangman-Bot'>https://github.com/shortland/Discord-Hangman-Bot</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Starcraft-2-Clan-Roster</h3>
-<p>Visualize on the web, your clan’s roster; with member info such as league, race, w/l ratio, etc…</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Starcraft-2-Clan-Roster'>https://github.com/shortland/Starcraft-2-Clan-Roster</a></p></div><br/><br/>
-
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>AlertMe</h3>
 <p>Idea for alerts for discord bot. Not sure what I want to do with this anymore</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/AlertMe'>https://github.com/shortland/AlertMe</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CoinAlert</h3>
-<p>not close to being done</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CoinAlert'>https://github.com/shortland/CoinAlert</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>YouTube-ID-to-MP3</h3>
-<p>Personal Project. Please don't use/abuse this... It uses someone elses website. I could use open source YT downloader but nahhh this is more fun</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/YouTube-ID-to-MP3'>https://github.com/shortland/YouTube-ID-to-MP3</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Youtube-Playlist-to-Text-List</h3>
-<p>Get names of all videos in a playlist. Useful for playlists with several hundred videos. Output is a text file with each video name delimited with new line</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Youtube-Playlist-to-Text-List'>https://github.com/shortland/Youtube-Playlist-to-Text-List</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Userscript-for-KissAnime.ru</h3>
-<p>Remove ads and optimize page/player. </p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Userscript-for-KissAnime.ru'>https://github.com/shortland/Userscript-for-KissAnime.ru</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>One-Piece-Player-User-Script</h3>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/One-Piece-Player-User-Script'>https://github.com/shortland/One-Piece-Player-User-Script</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Reddit-Replies</h3>
-<p>Get a reddit comment based off keyword search</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Reddit-Replies'>https://github.com/shortland/Reddit-Replies</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Trivia-Crack-Automated</h3>
-<p>Setup a cron job or something to execute the script however often you want. The script will create as many new games as it can. And it’ll play any existing open games as-well.</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Trivia-Crack-Automated'>https://github.com/shortland/Trivia-Crack-Automated</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Word-Crack-Automated</h3>
-<p>Full automation for the game Word Crack</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Word-Crack-Automated'>https://github.com/shortland/Word-Crack-Automated</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Caffeine-Levels</h3>
 <p>Using a bad understanding of Bio&Chem, mathematically calculate the amount of caffeine in your body relative to when you took it.</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Caffeine-Levels'>https://github.com/shortland/Caffeine-Levels</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Running</h3>
-<p>Checks whether a script(s) is running and can kill the PID of the script if needed</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Running'>https://github.com/shortland/Running</a></p></div><br/><br/>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>YouTube-ID-to-MP3</h3>
+<p>Personal Project. Please don't use/abuse this... It uses someone elses website. I could use open source YT downloader but nahhh this is more fun</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/YouTube-ID-to-MP3'>https://github.com/shortland/YouTube-ID-to-MP3</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Userscript-for-KissAnime.ru</h3>
+<p>Remove ads and optimize page/player. </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Userscript-for-KissAnime.ru'>https://github.com/shortland/Userscript-for-KissAnime.ru</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Twitch-Stream-Online-Detection</h3>
+<p>Simple script to detects if a stream is online, and shows the game they're currently playing. Using Twitches new API.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Twitch-Stream-Online-Detection'>https://github.com/shortland/Twitch-Stream-Online-Detection</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Reddit-Replies</h3>
+<p>Get a reddit comment based off keyword search</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Reddit-Replies'>https://github.com/shortland/Reddit-Replies</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>One-Piece-Player-User-Script</h3>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/One-Piece-Player-User-Script'>https://github.com/shortland/One-Piece-Player-User-Script</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Word-Crack-Automated</h3>
+<p>Full automation for the game Word Crack</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Word-Crack-Automated'>https://github.com/shortland/Word-Crack-Automated</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Twitter-Common-Followers</h3>
 <p>Get a list of 2 peoples shared followers</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Twitter-Common-Followers'>https://github.com/shortland/Twitter-Common-Followers</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CBoard</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
-<p>macOS notification center widget to perform quick programming-related tasks</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CBoard'>https://github.com/shortland/CBoard</a></p></div><br/><br/>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Running</h3>
+<p>Checks whether a script(s) is running and can kill the PID of the script if needed</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Running'>https://github.com/shortland/Running</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>4-7-8-Breathing-Animation</h3>
 <p>Animation to ease into 4-7-8 Breathing </p>
@@ -88,31 +119,190 @@
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>SC2-Audio-Builder-Auto-Parse</h3>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/SC2-Audio-Builder-Auto-Parse'>https://github.com/shortland/SC2-Audio-Builder-Auto-Parse</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>sc2audiobuilder</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Chunk-Getter</h3>
+<p>Useless script that I'm using for another project</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Chunk-Getter'>https://github.com/shortland/Chunk-Getter</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>sc2audiobuilder</h3><div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>
 <p>StarCraft 2 Audiobuilder</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/sc2audiobuilder'>https://github.com/shortland/sc2audiobuilder</a></p></div><br/><br/>
-
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>spawningtool</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small>
-<p>Tools for analyzing StarCraft 2 Replays</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/spawningtool'>https://github.com/shortland/spawningtool</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Revlo-Bot-gamble-is-a-trap</h3>
 <p>Obviously since the odds are clearly given to you</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Revlo-Bot-gamble-is-a-trap'>https://github.com/shortland/Revlo-Bot-gamble-is-a-trap</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Twitch-Stream-Online-Detection</h3>
-<p>Simple script to detects if a stream is online, and shows the game they're currently playing. Using Twitches new API.</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Twitch-Stream-Online-Detection'>https://github.com/shortland/Twitch-Stream-Online-Detection</a></p></div><br/><br/>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>spawningtool</h3><div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>
+<p>Tools for analyzing StarCraft 2 Replays</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/spawningtool'>https://github.com/shortland/spawningtool</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Map-Maker</h3>
+<p>make map</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Map-Maker'>https://github.com/shortland/Map-Maker</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Recursion-Patterns</h3>
+<p>Print patterns/shapes using only recursion</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Recursion-Patterns'>https://github.com/shortland/Recursion-Patterns</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CSE-114-Midterm-1</h3>
+<p>Programming Solutions from Midterm 1</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CSE-114-Midterm-1'>https://github.com/shortland/CSE-114-Midterm-1</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Timed-Audio-Playing</h3>
+<p>Click a button and it'll play a series of audio files. Meant for larger project. I might do this in Javascript so it’s accessible on mobile device rather than in Java.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Timed-Audio-Playing'>https://github.com/shortland/Timed-Audio-Playing</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-Recursion-Teddy-Bear-Game</h3>
+<p>Java Recursion Teddy Bear Game.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-Recursion-Teddy-Bear-Game'>https://github.com/shortland/Java-Recursion-Teddy-Bear-Game</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Background-GIF</h3>
+<p>DO NOT USE THIS. CPU USAGE WAY TOO EXTREME. Sets a "gif" as your background image on Macs</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Background-GIF'>https://github.com/shortland/Background-GIF</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Desktop-BG-Updater</h3>
+<p>Run this script & it'll change your desktop background to a random pretty picture from a reddit subreddit. The script looks at currently only the top ≈20 posts from 4 listed subs. You can change both of those parameters & change the subs too :D</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Desktop-BG-Updater'>https://github.com/shortland/Desktop-BG-Updater</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Colored-Boxes</h3>
+<p>Fills the screen with randomly colored boxes. </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Colored-Boxes'>https://github.com/shortland/Colored-Boxes</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-Mobius-Text</h3>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-Mobius-Text'>https://github.com/shortland/Java-Mobius-Text</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Into-It</h3>
+<p>Attempt to make it look like 'you' are going into something</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Into-It'>https://github.com/shortland/Into-It</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Spiral</h3>
+<p>Some jQuery art,</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Spiral'>https://github.com/shortland/Spiral</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Text2Pic-Encoder</h3>
+<p>Using a dictionary - translates a character to a pixel color</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Text2Pic-Encoder'>https://github.com/shortland/Text2Pic-Encoder</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Better-Colors</h3>
+<p>Creates a random nice looking color in RGB format. (I basically copy pasted 2 snippets of code I found online. Literarily didn't write almost any of this, just merged codes)</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Better-Colors'>https://github.com/shortland/Better-Colors</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>4000-Circles</h3>
+<p>Really awesome jQuery/CSS animation</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/4000-Circles'>https://github.com/shortland/4000-Circles</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-ArrayToArrayList</h3>
+<p>Normal int[] array into an ArrayList<Integer> using only recursion. No for loops</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-ArrayToArrayList'>https://github.com/shortland/Java-ArrayToArrayList</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-ArrayListArrayListInteger-Into-ArrayListArrayInt</h3>
+<p>Turn an ArrayList<ArrayList<Integer>> into ArrayList<int[]> without the use of loops. Only recursion.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-ArrayListArrayListInteger-Into-ArrayListArrayInt'>https://github.com/shortland/Java-ArrayListArrayListInteger-Into-ArrayListArrayInt</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-AddElementToArray</h3>
+<p>Create a new array from pre-existing array with 1 new value added. No Loops. Only Recursion.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-AddElementToArray'>https://github.com/shortland/Java-AddElementToArray</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-ArrayIntoArrayList</h3>
+<p>Turn an integer array into an ArrayList using recursion. No for loops.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-ArrayIntoArrayList'>https://github.com/shortland/Java-ArrayIntoArrayList</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-Permutation</h3>
+<p>Using recursion and ArrayLists</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-Permutation'>https://github.com/shortland/Java-Permutation</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Java-Factorial</h3>
+<p>Recursion to find factorial of a number. Breaks with bigger numbers. Can implement BigInteger class to fix this.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Java-Factorial'>https://github.com/shortland/Java-Factorial</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CBoard</h3><div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>
+<p>macOS notification center widget to perform quick programming-related tasks</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CBoard'>https://github.com/shortland/CBoard</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Random-Cat-Picture</h3>
+<p>Redirects you to a random cat picture; being used for a Discord Bot</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Random-Cat-Picture'>https://github.com/shortland/Random-Cat-Picture</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Sc2-Replay-Stats---Replay-Uploader---Mac</h3>
+<p>Replay Uploader for SC2 Replay Stats (Mac)</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Sc2-Replay-Stats---Replay-Uploader---Mac'>https://github.com/shortland/Sc2-Replay-Stats---Replay-Uploader---Mac</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Calendar</h3>
+<p>Javascript calendar - can view future and previous days of a month/year</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Calendar'>https://github.com/shortland/Calendar</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Stock-Market-Simulator-2</h3>
+<p>Stock Market Simulator 2 - Improved of version 1. With client sided version</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Stock-Market-Simulator-2'>https://github.com/shortland/Stock-Market-Simulator-2</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Pixelator</h3>
+<p>Pixelates an image, (messing around with images) (still in the works, nowhere near completion)</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Pixelator'>https://github.com/shortland/Pixelator</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Stock-Market-Simulator</h3>
+<p>Simple Stock Market Live Simulator</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Stock-Market-Simulator'>https://github.com/shortland/Stock-Market-Simulator</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Tilt</h3>
+<p>Tilt - Uses the gyroscope to move elements in Javascript!</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Tilt'>https://github.com/shortland/Tilt</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>TheBigGlitch</h3>
+<p>iPacMG Source Code</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/TheBigGlitch'>https://github.com/shortland/TheBigGlitch</a></p></div><br/><br/>
 
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>OrangeCaptcha</h3>
 <p>The Orange Captcha. Simple image Captcha.</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/OrangeCaptcha'>https://github.com/shortland/OrangeCaptcha</a></p></div><br/><br/>
 
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Rough-Touch-Punch</h3>
+<p>Basic draggable element working with Touch Punch </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Rough-Touch-Punch'>https://github.com/shortland/Rough-Touch-Punch</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Show-HTML</h3>
+<p>Converts "HTML" code into a text version that the browser will not recognize as HTML and therefore not execute as HTML.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Show-HTML'>https://github.com/shortland/Show-HTML</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>IP-Test</h3>
+<p>Force close applications if your external IP has changed</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/IP-Test'>https://github.com/shortland/IP-Test</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Element-Lookup</h3>
+<p>Insert the number of atoms a element has, and the script will output the name of the element.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Element-Lookup'>https://github.com/shortland/Element-Lookup</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Mobile-Menu</h3>
+<p>Simple, Modern Mobile Menu</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Mobile-Menu'>https://github.com/shortland/Mobile-Menu</a></p></div><br/><br/>
+
 <div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Hybrid-Cookie-Login</h3>
 <p>Web Cookie Login</p>
 <p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Hybrid-Cookie-Login'>https://github.com/shortland/Hybrid-Cookie-Login</a></p></div><br/><br/>
 
-<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>4000-Circles</h3>
-<p>Really awesome jQuery/CSS animation</p>
-<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/4000-Circles'>https://github.com/shortland/4000-Circles</a></p></div><br/><br/>
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Sparkles</h3>
+<p>A silly javascript theme I made for tumblr...</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Sparkles'>https://github.com/shortland/Sparkles</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>H-FEM</h3>
+<p>HTTP File Editor & Manager - Completely open source File Manager. Containing code for server sided & client sided ends.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/H-FEM'>https://github.com/shortland/H-FEM</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>Flikering-Night-Sky</h3>
+<p>An animation of night sky, with flickering stars</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/Flikering-Night-Sky'>https://github.com/shortland/Flikering-Night-Sky</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>iKeyboard</h3>
+<p>Pure CSS, JS and HTML Mobile Keyboard.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/iKeyboard'>https://github.com/shortland/iKeyboard</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>mobile-menu-hamburger</h3><div style='margin-left:24px;'><small><i><u>Forked Project</u></i> (Not my original project, something I may contribute(d) towards.)</small></div>
+<p>A hamburger menu for mobile wbsites</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/mobile-menu-hamburger'>https://github.com/shortland/mobile-menu-hamburger</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>CryptoCan</h3>
+<p>Encryption and Decryption Technique.</p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/CryptoCan'>https://github.com/shortland/CryptoCan</a></p></div><br/><br/>
+
+<div class='project'><h3 style='text-decoration:underline;margin-left:20px;'>MP3_Downloader</h3>
+<p>Small lightweight MP3 Downloader Perl Script. </p>
+<p>Source: <a rel='noopener' target='_blank' href='https://github.com/shortland/MP3_Downloader'>https://github.com/shortland/MP3_Downloader</a></p></div><br/><br/>
 
