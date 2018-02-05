@@ -1,0 +1,275 @@
+/*
+* Ilan Kleiman
+* style.css
+* First: 1/31/2018
+* Last: 2/5/2018
+*/
+
+@charset "UTF-8";
+
+/*@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Regular'), local('Lato-Regular'), url(lato.tff) format('truetype');
+}*/
+
+* {
+	font-family: 'Lato', sans-serif;
+	box-sizing: border-box;
+}
+
+table td, table td * {
+	vertical-align: top;
+}
+
+#top_header {
+	z-index: 100;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 76px;
+	background-color: #73AB84;
+	box-sizing: border-box;
+	border-bottom: 1px solid black;
+	color: red;
+}
+
+#header_name {
+	z-index: 101;
+	color: rgba(255, 255, 255, 1.0);
+	position: relative;
+	top: 20px;
+	font-size: 24px;
+	left: 20px;
+}
+
+.a_tab {
+	z-index: 101;
+	color: rgba(255, 255, 255, 1.0);
+	font-size: 20px;
+	display: inline-block;
+}
+
+#header_tabs {
+	top: 24px;
+	position: absolute;
+	display: inline-block;
+}
+
+#header_name:hover, .a_tab:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#profile_pic {
+	position: absolute;
+	top: 130px;
+	left: 80px;
+	border: 1px solid #73AB84;
+	box-sizing: border-box;
+}
+
+#profile_pic_alt_contacts {
+	border: 1px solid #73AB84;
+	box-sizing: border-box;
+	margin-top: 16px;
+}
+
+#about_me_box {
+	box-sizing: border-box;
+	/*padding: 20px;*/
+	padding-bottom: 10px;
+	font-size: 16px;
+	position: absolute;
+	top: 130px;
+	right: 80px;
+	color: rgba(0, 0, 0, 1.0);
+}
+
+#about_me_box_bottom_hr {
+	width: 100%;
+	background-color: #73AB84;
+	height: 0px;
+}
+
+#about_me_title {
+	padding: 10px;
+	background-color: #73AB84;
+	font-size: 24px;
+	color: rgba(255, 255, 255, 1.0);
+}
+
+#about_me_context {
+	padding: 10px;
+	margin-top: 0px;
+}
+
+#social_information {
+	width: 100%;
+	box-sizing: border-box;
+	/*padding: 20px;*/
+	color: rgba(0, 0, 0, 1.0);
+	position: absolute;
+	right: 80px;
+}
+
+#social_information_bottom_hr {
+	background-color: #73AB84;
+	height: 0px;
+}
+
+#social_title {
+	color: rgba(255, 255, 255, 1.0);
+	padding: 10px;
+	background-color: #73AB84;
+	font-size: 24px;
+}
+
+a, a:visited, a:active {
+	color: inherit;
+	text-decoration: none;
+}
+
+#main_content_box {
+	width: calc(100% - 160px);
+	background-color: #73AB84;
+	color: rgba(255, 255, 255, 1.0);
+	box-sizing: border-box;
+	position: absolute;
+	top: 130px;
+	left: 80px;
+	min-height: 400px;
+}
+
+#projects_content {
+	width: calc(100% - 160px);
+	color: rgba(255, 255, 255, 1.0);
+	box-sizing: border-box;
+	position: absolute;
+	top: 130px;
+	left: 80px;	
+	display: inline-block;
+}
+
+#about_these_projects {
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 4px 10px 10px 10px;
+	background-color: #73AB84;
+	box-sizing: border-box;
+	/*border-bottom: 1px solid black;*/
+	display: inline-block;
+	position: relative;
+	height: 50px;
+}
+
+#about_these_projects_vertical {
+	margin-top: 4px;
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.a_project {
+	width: 100%;
+	/*background-color: #73AB84;*/
+	border-bottom: 1px solid #73AB84;
+	color: rgba(0, 0, 0, 1.0);
+	box-sizing: border-box;
+	position: relative;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+.project_title {
+	width: 100%;
+	height: 30px;
+	font-size: 24px;
+	padding-left: 10px;
+	text-decoration: underline;
+	/*text-align: center;*/
+}
+
+.width_spacer {
+	display: inline-block;
+	width: 10px;
+	height: 0px;
+}
+
+.is_spacer {
+	display: inline-block;
+}
+
+.project_description {
+	overflow: hidden;
+	padding: 10px 10px 10px 20px;
+}
+
+.half_p, .full_p {
+	text-decoration: underline;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	display: inline-block;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+#skills_content, #cse300_content, #resume_content {
+	left: 80px;
+	top: 130px;
+	position: absolute;
+}
+
+#skills_title, #experience_title, #cse300_title, #resume_title {
+	font-size: 24px;
+	background-color: #73AB84;
+	color: rgba(255, 255, 255, 1.0);
+	padding: 10px;
+}
+
+#skills_list, #experience_list, #cse300_list, #resume_list {
+	padding: 10px;
+}
+
+#relative_content {
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+#mobile_menu {
+	top: 24px;
+	position: absolute;
+	display: inline-block;
+	z-index: 101;
+	color: rgba(255, 255, 255, 1.0);
+	font-size: 20px;
+	right: 10px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#mobile_menu_menu {
+	position: fixed;
+	top: 76px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 1.0);
+	z-index: 102;
+	display: none;
+}
+
+.mobile_menu_menu_links {
+	color: rgba(255, 255, 255, 1.0);
+	text-align: center;
+	font-size: 32px;
+	cursor: pointer;
+	border-bottom: 1px solid rgba(255, 255, 255, 1.0);
+}

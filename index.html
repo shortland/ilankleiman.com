@@ -1,38 +1,61 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Ilan Kleiman&apos;s Website</title>
+	<title>Ilan Kleiman</title>
 	<link rel="manifest" href="js/manifest.json">
-	<meta name="theme-color" content="rgba(65, 73, 83, 1.0)"/>
-	<meta name="mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width, height=device-height" minimal-ui/>
-	<meta name="description" content="View Ilan Kleiman's Website!"/>
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<script type="text/javascript" src="js/fastclick.js"></script>
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<!--<script type="text/javascript" src="js/jquery-ui.js"></script>-->
-	<script type="text/javascript" src="js/jq_colors.js"></script>
-	<script type="text/javascript" src="js/index.js"></script>
-	<script type="text/javascript" src="js/ajax.js"></script>
-	<!-- SW requires HTTPS -->
-	<script type="text/javascript"></script>
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+	<script type="text/javascript" src='js/jquery.js'></script>
+	<script type="text/javascript" src='js/jquery_colors.js'></script>
+	<script type="text/javascript" src='js/fontawesome-all.min.js'></script>
+	<script type="text/javascript" src='js/script.js'></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div id='header'>
-		<div class='tabs' id='pageAbout'>About</div>
-		<div class='tabs' id='pageHOVA'></div>
-		<div class='tabs' id='pageProjects'>Projects</div>
-		<div class='tabs' id='pagePROJ'></div>
-		<div id='title'>Ilan Kleiman</div>
+	<div id='top_header'>
+		<span id='header_name'>Ilan Kleiman</span>
+		<span id='header_tabs'>
+			<a href='?p=home'><span class='a_tab' id='home'>About</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href='?p=skills'><span class='a_tab' id='skills'>Skills</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href='?p=projects'><span class='a_tab' id='projects'>Projects</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href='?p=cse300'><span class='a_tab' id='cse300'>CSE 300</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href='?p=resume'><span class='a_tab' id='resume'>Resume</span></a><!--&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href='?p=blog'><span class='a_tab' id='blog'>Blog</span></a>-->
+		</span>
+		<span id='mobile_menu'>Menu</span>
 	</div>
-	
-	<div id='background'></div>
-	
-	<div class='pageContents' id='aboutContents'>
-		<div class='contentDiv'><p>Welcome to my website! I'm an undergraduate student attending Stony Brook University, majoring in Computer Science. Click on the projects tab above to view some of my open source programs and scripts!</p><p>View my GitHub page to view all of my open source programs: <a href='https://github.com/shortland?tab=repositories'>GitHub</a></p></div>
+
+	<div id="mobile_menu_menu">
+		<div class="mobile_menu_menu_links" id="home">About</div>
+		<div class="mobile_menu_menu_links" id="skills">Skills</div>
+		<div class="mobile_menu_menu_links" id="projects">Projects</div>
+		<div class="mobile_menu_menu_links" id="cse300">CSE 300</div>
+		<div class="mobile_menu_menu_links" id="resume">Resume</div>
 	</div>
-	
-	<div class='pageContents' id='projectsContents' style='display: none;'></div>
+
+	<div id='relative_content' style=''>
+		<img id='profile_pic' src='images/ProfilePic.png' width='120px' height='240px' border='0px' />
+
+		<div id='about_me_box'><div id='about_me_title'>About</div><p id='about_me_context'>&nbsp;Ilan is an undergraduate Computer Science student attending Stony Brook University. He is interested in a variety of fields ranging from artificial intelligence to web development. Ever since his youth he's been interested in programming and strove to help educate others with what it could help accomplish. For his senior year in high school he took the opportunity to begin and teach the school's first programming club.</p><div id='about_me_box_bottom_hr'></div></div>
+
+		<div id='social_information'>
+			<div id='social_title'>Contact & Links</div>
+			<table>
+				<tr>
+					<td><img id='profile_pic_alt_contacts' src='images/ProfilePic.png' width='120px' height='240px' border='0px' /></td>
+					<td><a style='margin-top:16px;margin-left:4px;display:inline-block;' href='https://github.com/shortland' target="_blank" rel="noopener">
+					<div style="font-size: 18px;">
+						<i class="fab fa-github"></i> GitHub
+					</div>
+				</a></br><span style='margin-left:4px;text-decoration:none !important;cursor:default !important;margin-top:6px;display:inline-block;' href="mailto:ilankleiman@gmail.com" target="_top">
+					<div style="font-size: 18px;">
+						<i class="fas fa-at"></i> ilankleiman@gmail.com
+					</div>
+				</span></td>
+					
+				</tr>
+			</table>
+		</div>
+	</div>
 </body>
 </html>
