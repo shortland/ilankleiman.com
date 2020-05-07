@@ -7,7 +7,8 @@ class ProjectsCard extends PureComponent {
                 <a href="?#">
                     <div class="card">
                         <div class="content">
-                            <img src="https://maxcdn.icons8.com/Share/icon/Logos//chrome1600.png" class="level" id="projectlogo" />
+                            <br />
+                            <img src="assets/MyProjects.jpg" class="level" id="projectlogo" />
                             <p id="projectname" class="title level">Projects</p>
                             <hr />
                             <p>Projects I've worked on</p>

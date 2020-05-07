@@ -7,7 +7,8 @@ class ContactCard extends PureComponent {
                 <a href="?#">
                     <div class="card">
                         <div class="content">
-                            <img src="https://maxcdn.icons8.com/Share/icon/Logos//chrome1600.png" class="level" id="projectlogo" />
+                            <br />
+                            <img src="assets/ContactMe3.png" class="level" id="projectlogo" />
                             <p id="projectname" class="title level" style={{ color: 'rgba(250, 250, 250, 1.0)' }}>Contact</p>
                             <hr style={{ color: 'rgba(250, 250, 250, 1.0)' }} />
                             <p style={{ color: 'rgba(250, 250, 250, 1.0)' }}>Send me a message</p>

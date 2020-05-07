@@ -7,7 +7,8 @@ class AboutCard extends PureComponent {
                 <a href="?#">
                     <div class="card">
                         <div class="content">
-                            <img src="https://maxcdn.icons8.com/Share/icon/Logos//chrome1600.png" class="level" id="projectlogo" />
+                            <br />
+                            <img src="assets/AboutMe.jpg" class="level" id="projectlogo" />
                             <p id="projectname" class="title level" style={{ color: 'rgba(250, 250, 250, 1.0)' }}>About</p>
                             <hr style={{ color: 'rgba(250, 250, 250, 1.0)' }} />
                             <p style={{ color: 'rgba(250, 250, 250, 1.0)' }}>Who am I?</p>

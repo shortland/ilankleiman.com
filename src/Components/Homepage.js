@@ -12,10 +12,10 @@ class Homepage extends PureComponent {
                         <ProjectsCard />
                     </div>
                     <div className="col-10">
-                        <ContactCard />
+                        <AboutCard />
                     </div>
                     <div className="col-10">
-                        <AboutCard />
+                        <ContactCard />
                     </div>
                 </div>
             </div>
